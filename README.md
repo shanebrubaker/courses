@@ -1,3 +1,5 @@
 # courses
+
 Coursework and example notebooks
-Adding Intersesion course 
+
+Adding Intersession course on AI and BioInformatics 
